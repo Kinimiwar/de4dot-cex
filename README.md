@@ -1,5 +1,5 @@
 ## de4dot CEx
-A de4dot fork with full support for vanilla ConfuserEx.
+A de4dot fork with full support for vanilla ConfuserEx
 
 ### Feature description
 * Supports x86 (native) mode
@@ -8,5 +8,7 @@ A de4dot fork with full support for vanilla ConfuserEx.
 * Decrypts resources
 * Fixes control flow
 * Fixes proxy calls
+* Deobfuscated assemblies are runnable
 
+---
 ### [Original README](README-orig.md)
